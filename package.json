@@ -1,5 +1,5 @@
 {
-  "name": "vite-project",
+  "name": "web-app-zentrix",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,10 +8,8 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "vite": "^7.0.6"
-  },
   "devDependencies": {
-    "glob": "^11.0.3"
+    "glob": "^10.4.1",
+    "vite": "^5.2.11"
   }
 }
